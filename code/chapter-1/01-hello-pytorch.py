@@ -5,7 +5,7 @@
 @date       : 2021-12-22
 @brief      : 问世代码
 """
-
+# test
 import torch
 
 print("Hello World, Hello PyTorch {}".format(torch.__version__))
